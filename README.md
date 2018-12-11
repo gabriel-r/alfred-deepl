@@ -10,14 +10,15 @@ Translate or iTranslate, at least for German.
 ## HOW TO USE IT?
 
 0. Use Alfred 2 (and possibly 3, I didn't test)
-1. Download and install this workflow
+1. Download and install this workflow. 
+2. Set up the hotkey `Ctrl+T` or whatever you want.
 
 ### Translate selected text
-2. Select some text and hit `Ctrl+T`
+3. Select some text and hit `Ctrl+T`
 
 ### Translate text input
-2. Open the Aflred command box
-3. Type or paste some text
+2. Open the Aflred command box and enter the keyword`translate `
+3. Type or paste some text, then hit `Enter`
 
 ### RESULT
 A browser page will open with the text translation. 
