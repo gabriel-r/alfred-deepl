@@ -1,19 +1,23 @@
-# alfred-deepl
+# Translate with Deepl
 
 Alfred 2 workflow, translates the selected or entered text with Deepl. 
 
-WHAT IS DEEPL?
-DeepL Translator is a translation service launched in August 2017
-by DeepL GmbH, a start up company backed up by Linguee. It's a lot 
-better than Google Translate or iTranslate 
+## WHAT IS DEEPL?
+https://www.deepl.com/translator is a translation service by DeepL GmbH,
+a start up company backed up by Linguee. It's a lot better than Google
+Translate or iTranslate, at least for German.
 
-HOW TO USE IT?
+## HOW TO USE IT?
 
 0. Use Alfred 2 (and possibly 3, I didn't test)
-1. Install this Workflow
-2. Select some text and hit `Ctrl+T"
+1. Download and install this workflow
 
-Alternatively…
-2. Enter `translate <some text>` in the Aflred command box
+### Translate selected text
+2. Select some text and hit `Ctrl+T`
 
-3. This will open a new browser window with the text translated. 
+### Translate text input
+2. Open the Aflred command box
+3. Type or paste some text
+
+### RESULT
+A browser page will open with the text translation. 
