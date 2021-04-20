@@ -1,3 +1,6 @@
+`This workflow is no longer relevant, as DeepL added
+support for custom keyboard shortcuts a while ago.`
+
 # Translate with Deepl
 
 Alfred 2 and 3 workflow, translates the selected or entered text with Deepl. 
